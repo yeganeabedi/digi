@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    direction: rtl;
+  }
+
+  
+  @font-face {
+    font-family: sans;
+    src: url(../media/font/IRANSansXFaNum-Medium.woff);
+    font-weight: 500;
+  }
+  @font-face {
+    font-family: yekan;
+    src: url(../media/font/iranyekan.woff);
+  }
+  @font-face {
+    font-family: yekan1;
+    src: url(../media/font/iranyekan-light.woff);
+    font-weight: 300;
+  }
+  @font-face {
+    font-family: yekan2;
+    src: url(../media/font/iranyekan-medium.woff);
+    font-weight: 500;
+  }
+  @font-face {
+    font-family: yekan3;
+    src: url(../media/font/iranyekan-bold.woff);
+    font-weight: 700;
+  }
